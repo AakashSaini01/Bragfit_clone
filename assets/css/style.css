@@ -1,0 +1,205 @@
+/* body begin */
+
+body{
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.text-right{
+	text-align: right;
+}
+
+.text-center{
+	text-align: center;
+	padding: 30px;
+}
+
+/* body end */
+
+/* black strip begin  */
+
+.navbar-top{
+	color: rgb(255 255 255 / 90%);
+	background-color: black;
+	height: 36px;
+	width: 100%;
+	text-align: center;
+	padding: 2px;
+}
+
+.navbar-top button{
+	color: rgb(255 255 255 / 90%);
+	text-align: right;
+}
+
+/* black strip end */
+
+/* Navbar begin  */
+
+.container-fluid span:hover {
+	background-color: yellow;
+}
+
+.right{
+	padding-top: 28px;
+}
+
+.container-fluid span{
+	padding: 5px;
+}
+
+/* Navbar end */
+
+/* carousel begin */
+
+.carousel-item{
+	height: 500px;
+}
+
+/* carousel end */
+
+
+.card-img-top{
+	width:300px;
+}
+
+/* Men's Printed begin */
+
+.card{
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+.card-body{
+	text-align: center;
+}
+
+/* Men's Printed end */
+
+/* Why Choose Bragfit? begin */
+
+.why-choose{
+	padding-top: 50px;
+	text-align: center;
+}
+
+.boxes{
+	padding-top: 50px;
+}
+
+.boxes h5{
+	font-size: 22px;
+}
+
+.boxes p{
+	padding: 5px;
+	font-size: 15px;
+}
+
+#box-1{
+	border-radius: 15px;
+	width: 580px;
+	height: 165px;
+	color: white;
+	text-align: center;
+	padding: 0px;
+	margin-right: 5px;
+	margin-bottom: 20px;
+	background-color: #F2BB2F;
+}
+
+#box-1 i{
+	padding-top: 20px;
+	font-size: 50px;
+}
+
+#box-2{
+	border-radius: 15px;
+	width: 580px;
+	height: 165px;
+	color: white;
+	text-align: center;
+	padding: 0px;
+	margin-right: 5px;
+	margin-bottom: 20px;
+	background-color: #F2BB2F;
+}
+
+#box-2 i{
+	padding-top: 20px;
+	font-size: 50px;
+}
+
+.boxes-2 h5{
+	font-size: 22px;
+}
+
+.boxes-2 p{
+	padding: 5px;
+	font-size: 15px;
+}
+
+#box-3{
+	border-radius: 15px;
+	width: 580px;
+	height: 165px;
+	color: white;
+	text-align: center;
+	padding: 0px;
+	margin-right: 5px;
+	margin-bottom: 20px;
+	background-color: #F2BB2F;
+}
+
+#box-3 i{
+	padding-top: 20px;
+	font-size: 50px;
+}
+
+#box-4{
+	border-radius: 15px;
+	width: 580px;
+	height: 165px;
+	color: white;
+	text-align: center;
+	padding: 0px;
+	margin-right: 5px;
+	margin-bottom: 20px;
+	background-color: #F2BB2F;
+}
+
+#box-4 i{
+	padding-top: 20px;
+	font-size: 50px;
+}
+
+/* Why Choose Bragfit? end */
+
+/* footer begin */
+
+.footer{
+	padding-top: 50px;
+	background-color: #232323;
+	color: #FFFFFF;
+}
+
+.footer h6{
+	font-size: 18px;
+}
+
+.footer p{
+	padding: 0px;
+	font-size: 15px;
+}
+
+.footer p1{
+	text-align: left;
+	padding: 0px;
+	font-size: 15px;
+}
+
+
+/* footer end */
