@@ -68,7 +68,7 @@
          </div>
 
          <div class="col-6" style="padding-left: 5px;">
-            <span style="color: #F2BB2F;text-align: left"><p><?= $row['product_price'] ?></p></span>
+            <span style="color: #F2BB2F;text-align: left"><p style="font-size:19px"><?= $row['product_price'] ?></p></span>
          </div>
 
        </div>
